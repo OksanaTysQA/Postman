@@ -1,0 +1,17 @@
+{
+    "person": {
+        "u_age": 30,
+        "u_name": [
+            "Peter",
+            2035,
+            30
+        ],
+        "u_salary_5_years": 8547.0
+    },
+    "qa_salary_after_1.5_year": 6715.5,
+    "qa_salary_after_12_months": 5494.5,
+    "qa_salary_after_3.5_years": 7733.0,
+    "qa_salary_after_6_months": 4070,
+    "start_qa_salary": 2035
+}
+

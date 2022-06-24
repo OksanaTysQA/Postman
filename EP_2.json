@@ -1,0 +1,19 @@
+{
+    "age": "32",
+    "family": {
+        "children": [
+            [
+                "Alex",
+                24
+            ],
+            [
+                "Kate",
+                12
+            ]
+        ],
+        "u_salary_1_5_year": 8000
+    },
+    "name": "Alex",
+    "salary": 2000
+}
+
