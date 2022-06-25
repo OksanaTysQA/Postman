@@ -1,0 +1,29 @@
+1. Создать окружение
+2. Создать в нем переменные name, age, salary, weight
+3. Записать в них значения, которые вы используете в запросах
+4. Заменить в запросах текстом прописанные значения на вызов переменной окружения
+5. Создать переменную url
+6. Записать в нее IP + port (всё до эндпоинта)
+7. Заменить в запросах ip и порт на переменную
+
+EP_1:
+{{var}}/get_method?name={{name}}&age={{age}}
+
+EP_2:
+{{var}}/user_info_3
+
+EP_3:
+{{var}}/object_info_1?name={{name}}&age={{age}}&weight={{weight}}
+
+EP_4:
+{{var}}/object_info_2?name={{name}}&age={{age}}&salary={{salary}}
+
+EP_5:
+{{var}}/object_info_3?name={{name}}&age={{age}}&salary={{salary}}
+
+EP_6:
+{{var}}/object_info_4?name={{name}}&age={{age}}&salary={{salary}}
+
+EP_7:
+{{var}}/user_info_2?name=str&age=int&salary=int
+
